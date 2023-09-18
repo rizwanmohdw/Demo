@@ -1,4 +1,4 @@
 # Demo
 this is my first git repository.
 <br>
-Author - Mohammed Rizwan
+Author - Mohammed Rizwan(Griet)
